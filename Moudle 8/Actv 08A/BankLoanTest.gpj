@@ -1,0 +1,26 @@
+!1513;s
+J
+SAU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SCU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+S+U0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SJU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SXU0
+SOU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SyU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!2346;d
+[\012  grasp [\012   legendy -31.21428571428571\012   legendx -0.25\012   version 1\012   winflags 1\012   eheight 720\012   ewidth 743\012   height 720\012   width 743\012   wbp 0\012   initlayout 0\012   yoffs -58.21428571428581\012   xoffs -16.21428571428578\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 1\012   visflags 118423807\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "BankLoanTest"\012    fromclassfiledate 0\012    fromclassfilename "%\011BankLoanTest.class"\012    fromfilename "%\011BankLoanTest.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x -119.07142857142853\012     y 30.928571428571416\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    fields "MAX_LOAN_AMOUNT\\011I\\011\\01126\\011\\011\\011BankLoan\011balance\\011D\\011\\0112\\011\\011\\011BankLoan\011customerName\\011Ljava/lang/String;\\011\\0112\\011\\011\\011BankLoan\011interestRate\\011D\\011\\0112\\011\\011\\011BankLoan\011loansCreated\\011I\\011\\01110\\011\\011\\011BankLoan\011BankLoan\\011(Ljava/lang/String;D)V\\011c\\0111\\011\\011\\011BankLoan\011<clinit>\\011()V\\011\\0118\\011\\011\\011BankLoan\011borrowFromBank\\011(D)Z\\011\\0111\\011\\011\\011BankLoan\011chargeInterest\\011()V\\011\\0111\\011\\011\\011BankLoan\011getBalance\\011()D\\011\\0111\\011\\011\\011BankLoan\011getInterestRate\\011()D\\011\\0111\\011\\011\\011BankLoan\011getLoansCreated\\011()I\\011\\0119\\011\\011\\011BankLoan\011isAmountValid\\011(D)Z\\011\\0119\\011\\011\\011BankLoan\011isInDebt\\011(LBankLoan;)Z\\011\\0119\\011\\011\\011BankLoan\011payBank\\011(D)D\\011\\0111\\011\\011\\011BankLoan\011resetLoansCreated\\011()V\\011\\0119\\011\\011\\011BankLoan\011setInterestRate\\011(D)Z\\011\\0111\\011\\011\\011BankLoan\011toString\\011()Ljava/lang/String;\\011\\0111\\011\\011\\011BankLoan"\012    condition 0\012    access2 0\012    access 2228257\012    classname "BankLoan"\012    fromclassfiledate 1540228775179\012    fromclassfilename "%\011BankLoan.class"\012    fromfilename "%\011BankLoan.java"\012   ]\012   id 1\012   graphics [\012    center [\012     x 83.9285714285714\012     y 5.071428571428598\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012 ]!66;g
+%\011BankLoan.java
+%\011BankLoanTest.java
+%\011OnlineTextItem.gpj
+!66;f
+%\011BankLoan.java
+%\011BankLoanTest.java
+%\011OnlineTextItem.gpj
+!50;l
+%\011BankLoanTestTest.java
+%\011BankLoanTest.java
