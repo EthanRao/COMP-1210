@@ -1,0 +1,24 @@
+!1513;s
+J
+SAU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SCU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+S+U0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SJU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SXU0
+SOU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SyU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!2650;d
+[\012  grasp [\012   legendy -74.93750000000006\012   legendx -2.749999999999943\012   version 1\012   winflags 3\012   eheight 23\012   ewidth 80\012   height 23\012   width 80\012   wbp 2\012   initlayout 0\012   yoffs -10.500000000000078\012   xoffs 31.562499999999943\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 1\012   visflags 118423807\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    fields "color\\011Ljava/lang/String;\\011\\0112\\011\\011\\011Icosahedron\011edge\\011D\\011\\0112\\011\\011\\011Icosahedron\011label\\011Ljava/lang/String;\\011\\0112\\011\\011\\011Icosahedron\011Icosahedron\\011(Ljava/lang/String;Ljava/lang/String;D)V\\011c\\0111\\011\\011\\011Icosahedron\011getColor\\011()Ljava/lang/String;\\011\\0111\\011\\011\\011Icosahedron\011getEdge\\011()D\\011\\0111\\011\\011\\011Icosahedron\011getLabel\\011()Ljava/lang/String;\\011\\0111\\011\\011\\011Icosahedron\011setColor\\011(Ljava/lang/String;)Z\\011\\0111\\011\\011\\011Icosahedron\011setEdge\\011(D)Z\\011\\0111\\011\\011\\011Icosahedron\011setLabel\\011(Ljava/lang/String;)Z\\011\\0111\\011\\011\\011Icosahedron\011surfaceArea\\011()D\\011\\0111\\011\\011\\011Icosahedron\011surfaceToVolumeRatio\\011()D\\011\\0111\\011\\011\\011Icosahedron\011toString\\011()Ljava/lang/String;\\011\\0111\\011\\011\\011Icosahedron\011volume\\011()D\\011\\0111\\011\\011\\011Icosahedron"\012    condition 1\012    access2 0\012    access 2228257\012    classname "Icosahedron"\012    fromclassfiledate 1537379398263\012    fromclassfilename "%\011Icosahedron.class"\012    fromfilename "%\011Icosahedron.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x 51.625000000000014\012     y -27.0\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    fields "IcosahedronApp\\011()V\\011c\\0111\\011\\011\\011IcosahedronApp\011main\\011([Ljava/lang/String;)V\\011\\0119\\011\\011\\011IcosahedronApp"\012    condition 2\012    access2 0\012    access 2490401\012    classname "IcosahedronApp"\012    fromclassfiledate 1537472902184\012    fromclassfilename "%\011IcosahedronApp.class"\012    fromfilename "%\011IcosahedronApp.java"\012   ]\012   id 1\012   graphics [\012    center [\012     x -51.625000000000014\012     y 27.0\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  edge [\012   ClassInfo [\012    dependencies "Icosahedron\\011(Ljava/lang/String;Ljava/lang/String;D)V\\011c\\011\\011\\011\\011Icosahedron\011toString\\011()Ljava/lang/String;\\011\\011\\011\\011\\011Icosahedron"\012    type 3\012   ]\012   source 0\012   target 1\012  ]\012 ]!32;a
+a%\011IcosahedronApp_doc	b	c1	d0!47;g
+%\011Icosahedron.java
+%\011IcosahedronApp.java
+!47;f
+%\011Icosahedron.java
+%\011IcosahedronApp.java
+!97;t
+jgrCheckstyle0xr	%\011Icosahedron.java	1537378473435:P	%\011IcosahedronApp.java	1537378473435:P	
